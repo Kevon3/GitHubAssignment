@@ -9,3 +9,4 @@ This is my steps page
 8. Kevin Comment in another branch
 9. Merge request from big-fix
 10. Merge request from bug-fix-experimental
+11. Merge conflict resolved
