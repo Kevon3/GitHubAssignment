@@ -10,3 +10,7 @@ This is my steps page
 9. Merge request from big-fix
 10. Merge request from bug-fix-experimental
 11. Merge conflict resolved
+12. STEPS file created
+13. Merge request from bug-fix-experimental
+14. Listed steps
+15. Merge request from bug-fi
