@@ -4,3 +4,4 @@ This is my steps page
 3. Added meme
 4. Merge pull request bug-fix-experimental
 5. Added another meme
+6. Merge request from bug-fix
